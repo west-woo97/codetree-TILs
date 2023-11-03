@@ -19,7 +19,7 @@
 # 🥇 실전 훈련
 |총 문제 수|티어|유형|
 |---:|---|---|
-|10|![Silver2][s2] ~ ![Gold3][g3]|`Greedy` `Exhaustive Search` `HashMap` `Prime Factorization` `Backtracking` `DP` `Two Pointer` `Counting Array`|
+|11|![Silver2][s2] ~ ![Gold3][g3]|`Greedy` `Exhaustive Search` `HashMap` `Prime Factorization` `Backtracking` `DP` `Two Pointer` `Counting Array`|
 
 |기록분류|이름|티어|유형|제출코드|
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 |타이머|[알파벳과 숫자를 이용한 퍼즐](https://www.codetree.ai/training-field/search/problems/puzzles-using-alphabets-and-numbers)|![Silver2][s2]|`Backtracking`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/puzzles-using-alphabets-and-numbers/puzzles-using-alphabets-and-numbers.cpp)|
 |타이머|[사람들 줄 세우기](https://www.codetree.ai/training-field/search/problems/line-up-people)|![Silver1][s1]|`Greedy` `Exhaustive Search`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/line-up-people/line-up-people.cpp)|
 |타이머|[팩토리얼 0의 개수 2](https://www.codetree.ai/training-field/search/problems/number-of-factorial-zeros-2)|![Silver1][s1]|`Prime Factorization`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/number-of-factorial-zeros-2/number-of-factorial-zeros-2.cpp)|
+|타이머|[최소 차이로 묶기](https://www.codetree.ai/training-field/search/problems/bundling-with-minimum-difference)|![Gold4][g4]|`DP`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/bundling-with-minimum-difference/bundling-with-minimum-difference.cpp)|
 
 
 ## 🏃 릴레이 기록
@@ -55,7 +56,7 @@
 [알파벳과 숫자를 이용한 퍼즐](https://www.codetree.ai/training-field/search/problems/puzzles-using-alphabets-and-numbers)|![Silver2][s2]|`Backtracking`|![Passed][passed]|00:01:02|
 [사람들 줄 세우기](https://www.codetree.ai/training-field/search/problems/line-up-people)|![Silver1][s1]|`Greedy` `Exhaustive Search`|![Passed][passed]|00:03:52|
 [팩토리얼 0의 개수 2](https://www.codetree.ai/training-field/search/problems/number-of-factorial-zeros-2)|![Silver1][s1]|`Prime Factorization`|![Passed][passed]|00:04:57|
-[최소 차이로 묶기](https://www.codetree.ai/training-field/search/problems/bundling-with-minimum-difference)|![Gold4][g4]|`DP`|||
+[최소 차이로 묶기](https://www.codetree.ai/training-field/search/problems/bundling-with-minimum-difference)|![Gold4][g4]|`DP`|![Passed][passed]|00:15:01|
 [장난감 조립](https://www.codetree.ai/training-field/search/problems/make-toy)|![Gold4][g4]|`Topological Sort`|||
 [문제 추천 시스템 2](https://www.codetree.ai/training-field/search/problems/problem-recommendation-system-2)|![Gold3][g3]|`TreeSet`|||
 [트리의 너비](https://www.codetree.ai/training-field/search/problems/width-of-the-tree)|![Gold2][g2]|`Binary Tree`|||
