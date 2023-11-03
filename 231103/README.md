@@ -8,11 +8,12 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|0xp|0일째🔥|
+2|0xp|0일째🔥|
 
 |교재|이름|난이도|경험치|제출코드|
 |---|---|:---:|---|---|
 |[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[두줄 출력](https://www.codetree.ai/missions/4/problems/print-two-sentences-introduce)|![쉬움][easy]|10xp|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/print-two-sentences-introduce/print-two-sentences-introduce.py)|
+|[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[다양하게 출력](https://www.codetree.ai/missions/4/problems/print-in-variety)|![쉬움][easy]|10xp|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/print-in-variety/print-in-variety.py)|
 
 
 
