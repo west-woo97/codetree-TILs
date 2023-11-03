@@ -19,14 +19,15 @@
 # 🥇 실전 훈련
 |총 문제 수|티어|유형|
 |---:|---|---|
-|4|![Gold4][g4] ~ ![Gold3][g3]|`Exhaustive Search` `HashMap` `DP` `Two Pointer` `Counting Array`|
+|5|![Gold4][g4] ~ ![Gold3][g3]|`Exhaustive Search` `HashMap` `DP` `Two Pointer` `Counting Array`|
 
 |기록분류|이름|티어|유형|제출코드|
 |---|---|---|---|---|
 |릴레이|[n개의 문자로 이루어진 부분 문자열](https://www.codetree.ai/training-field/search/problems/substring-of-n-characters)|![Gold3][g3]|`Counting Array` `Two Pointer`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/substring-of-n-characters/substring-of-n-characters.py)|
 |릴레이|[n개의 문자로 이루어진 부분 문자열](https://www.codetree.ai/training-field/search/problems/substring-of-n-characters)|![Gold3][g3]|`Counting Array` `Two Pointer`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/substring-of-n-characters/substring-of-n-characters.cpp)|
 |릴레이|[공간 확보하기](https://www.codetree.ai/training-field/search/problems/free-up-space)|![Gold3][g3]|`DP`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/free-up-space/free-up-space.cpp)|
-|릴레이|[3개의 선](https://www.codetree.ai/training-field/search/problems/three-lines)|![Gold4][g4]|`Exhaustive Search` `Counting Array` `HashMap`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/three-lines/three-lines.cpp)|
+|일반 연습|[3개의 선](https://www.codetree.ai/training-field/search/problems/three-lines)|![Gold4][g4]|`Exhaustive Search` `Counting Array` `HashMap`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/three-lines/three-lines.cpp)|
+|일반 연습|[3개의 선](https://www.codetree.ai/training-field/search/problems/three-lines)|![Gold4][g4]|`Exhaustive Search` `Counting Array` `HashMap`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/three-lines/three-lines.py)|
 
 
 ## 🏃 릴레이 기록
