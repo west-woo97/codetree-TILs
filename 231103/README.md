@@ -16,6 +16,29 @@
 |[Novice Low / 출력 / 기본 출력](https://www.codetree.ai/missions?missionId=4)|[다양하게 출력](https://www.codetree.ai/missions/4/problems/print-in-variety)|![쉬움][easy]|10xp|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/print-in-variety/print-in-variety.py)|
 
 
+# 🥇 실전 훈련
+|총 문제 수|티어|유형|
+|---:|---|---|
+|3|![Gold3][g3] ~ ![Gold3][g3]|`Counting Array` `DP` `Two Pointer`|
+
+|기록분류|이름|티어|유형|제출코드|
+|---|---|---|---|---|
+|릴레이|[n개의 문자로 이루어진 부분 문자열](https://www.codetree.ai/training-field/search/problems/substring-of-n-characters)|![Gold3][g3]|`Counting Array` `Two Pointer`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/substring-of-n-characters/substring-of-n-characters.py)|
+|릴레이|[n개의 문자로 이루어진 부분 문자열](https://www.codetree.ai/training-field/search/problems/substring-of-n-characters)|![Gold3][g3]|`Counting Array` `Two Pointer`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/substring-of-n-characters/substring-of-n-characters.cpp)|
+|릴레이|[공간 확보하기](https://www.codetree.ai/training-field/search/problems/free-up-space)|![Gold3][g3]|`DP`|[링크](https://github.com/west-woo97/codetree-TILs/blob/main/231103/free-up-space/free-up-space.cpp)|
+
+
+## 🏃 릴레이 기록
+![현재](https://img.shields.io/badge/현재_릴레이-7-%235cb85c.svg?for-the-badge)
+![최장](https://img.shields.io/badge/최장_릴레이-8-%23E34F26.svg?for-the-badge)
+![누적](https://img.shields.io/badge/누적_릴레이-25-%2300599C.svg?for-the-badge)
+
+|릴레이|문제|티어|유형|
+|---|---|---|---|
+|7|[공간 확보하기](https://www.codetree.ai/training-field/search/problems/free-up-space)|![Gold3][g3]|`DP`|
+|6|[n개의 문자로 이루어진 부분 문자열](https://www.codetree.ai/training-field/search/problems/substring-of-n-characters)|![Gold3][g3]|`Counting Array` `Two Pointer`|
+
+
 
 
 
